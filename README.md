@@ -5,7 +5,7 @@
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
 |1|2024.07.23|Getting & Knowing Your Data|Chipotle|Sohee||
-||||Occupation|minsu|https://github.com/seo-minsu/Python-Programming-Study_Minsu/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Occupation/Exercises.ipynb|
+||||Occupation|minsu|pandas_exercises/01_Getting_&_Knowing_Your_Data/Occupation/Exercises.ipynb|
 ||||World Food Facts|kwanization||
 |2|2024.07.30|Filtering & Sorting|Chipotle|stopsilver||
 ||||Euro12|omj||
