@@ -1,10 +1,10 @@
-# 파이썬프로그래밍 스터디(2024.04~)
-## 실전편 with Pandas(2024.07 ~ )
+# 파이썬프로그래밍 스터디(2024.04~2024.12)
+## 실전편 with Pandas(2024.07 ~ 2024.12)
 - pandas 문제 풀기
 
 |NO|일자|내용|데이터셋|발표자|코드|
 |---|------|---|:---|---|---|
-|1|2024.07.24|1. Getting & Knowing Your Data|Chipotle|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
+|1|2024.07.23|1. Getting & Knowing Your Data|Chipotle|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Chipotle/Exercises.ipynb)|
 |2|2024.07.30||Occupation|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/Occupation/Exercises(MS).ipynb)|
 ||||World Food Facts|[kwanization](https://github.com/kwanization)|[코드](https://github.com/kwanization/PPS-S2/blob/main/pandas_exercises/01_Getting_%26_Knowing_Your_Data/World%20Food%20Facts/Exercises.ipynb)|
 |3|2024.08.06|2. Filtering & Sorting|Chipotle|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/02_Filtering_%26_Sorting/Chipotle/Exercises_sh.ipynb)|
@@ -25,12 +25,12 @@
 ||||Scores|[minsu](https://github.com/seo-minsu)|[코드](https://github.com/seo-minsu/Python_Programming_Study/blob/main/pandas_exercises/07_Visualization/Scores/Exercises.ipynb)|
 ||||Tips|kwanization||
 ||||Titanic_Desaster|jhkim||
-|9|2024.09|8. Creating Series and DataFrames|Pokemon|omj||
-|10|2024.09|9. Time Series|Apple_Stock|Sohee||
-||||Getting_Financial_Data|minsu||
+|9|2024.09|8. Creating Series and DataFrames|Pokemon|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/08_Creating_Series_and_DataFrames/Pokemon/Exercises.ipynb)|
+|10|2024.09|9. Time Series|Apple_Stock|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/09_Time_Series/Apple_Stock/Exercises_sh.ipynb)|
+||||Getting_Financial_Data|minsu|코드|
 ||||Investor_Flow_of_Funds_US|kwanization||
-|11|2024.09|10. Deleting|Iris|omj||
-||||Wine|Sohee||
+|11|2024.09|10. Deleting|Iris|[omj](https://github.com/omj3424)|[코드](https://github.com/omj3424/Python_Programming_Study/blob/main/pandas_exercises/10_Deleting/Iris/Exercises.ipynb)|
+||||Wine|[Sohee](https://github.com/SoheeKim12)|[코드](https://github.com/SoheeKim12/Python_Programming_Study/blob/main/pandas_exercises/10_Deleting/Wine/Exercises_sh.ipynb)|
 
 1. 스터디 방식
     - 과제 수행
